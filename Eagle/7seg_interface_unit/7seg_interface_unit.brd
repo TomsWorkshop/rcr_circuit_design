@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.5.2">
+<eagle version="9.1.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -192,6 +192,8 @@
 <hole x="55.88" y="35.56" drill="3"/>
 <hole x="132.08" y="35.56" drill="3"/>
 <hole x="23.5" y="3.5" drill="3"/>
+<dimension x1="0" y1="78.74" x2="0" y2="3.81" x3="-2.54" y3="41.275" textsize="1.778" layer="1"/>
+<dimension x1="184.15" y1="82.55" x2="3.81" y2="82.55" x3="93.98" y3="87.63" textsize="1.778" layer="1"/>
 </plain>
 <libraries>
 <library name="7seg-led">
